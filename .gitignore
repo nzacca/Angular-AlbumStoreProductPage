@@ -38,6 +38,7 @@ tutor-karma.conf.js
 # e2e
 /e2e/*.js
 /e2e/*.map
+!/e2e/protractor.conf.js
 
 # System Files
 .DS_Store
